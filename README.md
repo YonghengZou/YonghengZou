@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YonghengZou.
 - 👀 I’m interested in Machine Learning, Deeping Learning and Big Data.
 - 🌱 I’m currently a Master student of Applied Data Science at the University of Victoria in Canada.
-- 💞️ I’m looking for a co-op job related to DATA!
 - 📫 Here is my email and feel free to contact me. 
 yonghengzou@uvic.ca
 
