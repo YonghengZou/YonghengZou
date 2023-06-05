@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deeping Learning and Big Data.
 - 🌱 I’m currently a Master student of Applied Data Science at the University of Victoria in Canada.
 - 📫 Here is my email and feel free to contact me. 
-yonghengzou@uvic.ca
+yonghengzou97@gmail.com
 
 <!---
 YonghengZou/YonghengZou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
